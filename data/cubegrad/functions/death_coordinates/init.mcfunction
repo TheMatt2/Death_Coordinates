@@ -10,9 +10,9 @@ scoreboard objectives add dc_dims_two dummy "Preserving dimensions of last two d
 scoreboard objectives add dc_dims_three dummy "Preserving dimensions of last two deaths"
 scoreboard objectives add death_reminder trigger "Reminder Death Coords"
 
-scoreboard objectives add dc_X dummy "X"
-scoreboard objectives add dc_Y dummy "Y"
-scoreboard objectives add dc_Z dummy "Z"
-scoreboard objectives add dc_X_old dummy "X2"
-scoreboard objectives add dc_Y_old dummy "Y2"
-scoreboard objectives add dc_Z_old dummy "Z2"
+scoreboard objectives add dc_X dummy
+scoreboard objectives add dc_Y dummy
+scoreboard objectives add dc_Z dummy
+scoreboard objectives add dc_X_old dummy
+scoreboard objectives add dc_Y_old dummy
+scoreboard objectives add dc_Z_old dummy
