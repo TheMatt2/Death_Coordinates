@@ -1,0 +1,1 @@
+execute as @a[scores={dc_trigger=1..}] at @s run function cubegrad:death_coordinates/display_coords

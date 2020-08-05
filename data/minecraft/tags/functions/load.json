@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "cubegrad:death_coordinates/init",
+    "cubegrad:schedule_second"
+  ]
+}

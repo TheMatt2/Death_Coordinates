@@ -1,0 +1,32 @@
+{
+  "rewards": {
+    "function": "cubegrad:death_coordinates/dim_manage"
+  },
+  "criteria": {
+    "to_overworld": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:overworld"
+      }
+    },
+    "to_the_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    },
+    "to_the_end": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "to_overworld",
+      "to_the_nether",
+      "to_the_end"
+    ]
+  ]
+}

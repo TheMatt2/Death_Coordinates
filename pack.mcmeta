@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Showing messages with the coordinates of your death 1.0",
+        "color": "reset"
+      },
+      {
+        "text": "\nBy Cube Grad Team",
+        "color": "reset"
+      }
+    ],
+    "pack_format": 4
+  }
+}

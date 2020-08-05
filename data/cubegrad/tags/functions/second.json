@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	"cubegrad:death_coordinates/trigger",
+	"cubegrad:schedule_second"
+  ]
+}
